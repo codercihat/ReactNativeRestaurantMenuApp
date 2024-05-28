@@ -1,50 +1,12 @@
-# Welcome to your Expo app 👋
+✅ I completed my Restaurant Menu application. It was a great experience for me. I rendered the content of the categories dynamically by using Stack Navigator with React Navigation and using the useEffect hook.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+📈 Using constructors while working with data made my work much easier.
 
-## Get started
+📌 I shared the file structure as you can see below.
 
-1. Install dependencies
+🗓 Day by day, I dive deeper into mobile application development by doing small-scale projects.
 
-   ```bash
-   npm install
-   ```
+![file structure](https://github.com/codercihat/ReactNativeRestaurantMenuApp/assets/113478516/af247165-ed04-481f-a07f-bebae65dee22)
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![CategoriesScreen](https://github.com/codercihat/ReactNativeRestaurantMenuApp/assets/113478516/1739179d-32f7-4936-b40f-a0ee5bde384b)
+![MealsScreen](https://github.com/codercihat/ReactNativeRestaurantMenuApp/assets/113478516/7eaf65f8-4166-4bba-aa64-2b95c997ac75)
